@@ -1,0 +1,6 @@
+{
+    "dbConfig":{
+        "password":"db_password",
+        "port":"db_port"
+    }
+}
